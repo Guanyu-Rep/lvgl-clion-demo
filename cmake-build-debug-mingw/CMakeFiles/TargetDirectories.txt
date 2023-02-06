@@ -1,0 +1,4 @@
+E:/materials/UI/Clion_lvgl_v8.3/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+E:/materials/UI/Clion_lvgl_v8.3/cmake-build-debug-mingw/CMakeFiles/main.dir
+E:/materials/UI/Clion_lvgl_v8.3/cmake-build-debug-mingw/CMakeFiles/run.dir
+E:/materials/UI/Clion_lvgl_v8.3/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
